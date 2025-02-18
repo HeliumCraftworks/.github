@@ -24,7 +24,7 @@
       
   ---
 
-  Feel free to check out [website](https://heliumcraftworks.github.io/) for more information.
+  Feel free to check out the [website](https://heliumcraftworks.github.io/) for more information.
   
   <img src="https://profile-counter.glitch.me/heliumcraftwork/count.svg?">
 </div>
